@@ -1,0 +1,11 @@
+ om  g  m  b  av ag yg p
+A 0  0  0  0  0  0  0  0  idmangücü
+B 0  0  0  0  0  0  0  0  idmanocaðý
+C 0  0  0  0  0  0  0  0  kasýmpaþa
+D 0  0  0  0  0  0  0  0  sebatspor
+E 0  0  0  0  0  0  0  0  yelkencler
+F 0  0  0  0  0  0  0  0  uðurspor
+G 0  0  0  0  0  0  0  0  takaspor
+H 0  0  0  0  0  0  0  0  gençbeledye
+I 0  0  0  0  0  0  0  0  ofspor
+J 0  0  0  0  0  0  0  0  maçkaspor
